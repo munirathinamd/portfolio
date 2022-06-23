@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Highlights
 
  •	14+ years of experience in IT industry and played Solution Architect and Project Lead roles
+ 
  •	Worked on Operational Risk, Credit Risk Pooling & Estimations, Financial Crime & Compliance Management solutions like Know Your Customer, Anti Money Laundering, Enterprise Case Management, Compliance Regulatory Reporting and Currency Transaction Report.
  •	Customize and implement various OFSAA products in Tier-1 banks.
  •	Good experience in Project Life Cycle management
