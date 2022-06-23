@@ -49,17 +49,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Core Competencies
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 •	Operational Risk & Compliance
+
 •	Financial Crime and Compliance Management
+    
     o	Enterprise Case Management (ECM)
+    
     o	Anti-Money Laundering (AML)
+    
     o	Know Your Customer (KYC)
+    
     o	Compliance Regulatory Reporting
+    
     o	Currency Transaction Reporting (CTR)
+    
     o	FCCM Studio
+
 •	Credit Risk Pooling & Estimation
 
 ### Header 3
