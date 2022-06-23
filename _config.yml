@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Munirathinam Duraisamy </p>
+logo: /assets/img/Munirathinam_Photo.JPG
+
+description:
+  <p align="center">
+  <a href="documents/Munirathinam_Resume.docx">Resume</a> |
+  <a href="https://www.linkedin.com/in/munirathinam-duraisamy-3a147217/">LinkedIn</a> |
+  <a href="https://github.com/munirathinamd">GitHub</a>
+  
+  <br>   
+ I am working as Solution Architect for implementing OFSAA-FCCM product. I have strong knowledge on Oracle, OFSAA product, Python, OBIEE,etc. I am exploring ML and AI courses also.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
